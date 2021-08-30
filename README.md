@@ -31,6 +31,8 @@ Here are some ideas to get you started:
  
 - 💬 Ask me about cloud, bash scripting
 - 📫 How to reach me: hit that linkedin icon 
-- thank you 🙏🏻 have a nice day 😁🎊
+
+
+## Thank You 🙏🏻 have a nice day ahead 😁🎊
 
 
