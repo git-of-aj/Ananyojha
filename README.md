@@ -1,8 +1,6 @@
 ### Hi there 👋 thanks for visiting 😁
 
-<style>
-  h1 {
-    left: 120%;
+<h1 style="left: 120%;
     animation: aansh 5.5s linear forwards;
  }
 
@@ -12,10 +10,7 @@
        {
            left
        }
-}
-</style>
-
-<h1 align="center">Hi 👋, I'm Ananay Ojha</h1>
+}">Hi 👋, I'm Ananay Ojha</h1>
 
 <h3 align="center">Aspiring cloud engineer</h3>
 
