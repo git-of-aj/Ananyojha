@@ -1,6 +1,6 @@
 ### Hi there 👋 thanks for visiting 😁
 
-<h1 style="font-family:arial; font-size: xxl;">Hi 👋, I'm Ananay Ojha</h1>
+<h1 style="font-family:algerian; font-size: xxl;">Hi 👋, I'm Ananay Ojha</h1>
 
 <h3 align="center">Aspiring cloud engineer</h3>
 
