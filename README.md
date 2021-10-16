@@ -1,22 +1,12 @@
 ### Hi there 👋 thanks for visiting 😁
 
-<h1 style="left: 120%;
-    animation: aansh 5.5s linear forwards;
- }
-
-@keyframes aansh
-{
-       0%
-       {
-           left
-       }
-}">Hi 👋, I'm Ananay Ojha</h1>
+<h1 style="font-family:comic-sans; font-size: xl;">Hi 👋, I'm Ananay Ojha</h1>
 
 <h3 align="center">Aspiring cloud engineer</h3>
 
 - 🌱 I’m currently learning **Azure & Google cloud platform**
 
-- ⚡ Fun fact **I am from non cs background**
+- ⚡ Fun fact **I am from NON-CS background**
 
 <h3 align="left">Connect with me:</h3>
 
